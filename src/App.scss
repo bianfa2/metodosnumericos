@@ -1,0 +1,12 @@
+.App {
+  font-family: "Quicksand";
+
+  & > h1 {
+    font-weight: 400;
+    padding: 0 30px;
+  }
+
+  & > .content {
+    padding: 50px 30px;
+  }
+}
